@@ -1,3 +1,6 @@
+Demo of the App for desktop view and mobile view can be found here:
+https://www.figma.com/proto/Pp29BZiBtZXl6ORWwY5JTdtP/Agrofast.?node-id=483%3A67&scaling=scale-down&page-id=0%3A1
+
 ## pxCode Template Builder 
 
 ### 1. Prerequisite
